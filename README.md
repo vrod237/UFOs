@@ -1,5 +1,9 @@
 # UFOs
 
+## Purpose
+
+The purpose of this project is to design a webpage to help display information pertaining to UFO sightings. Included on the site is a table that lists all of the reported sightings available. Due to the amount of information available, I have included a filter to help narrow down the information by date, city, state, country and shape.
+
 ## Project Overview
 
 - Create, update, and deploy JavaScript functions to provide additional table filters.
